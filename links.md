@@ -32,4 +32,8 @@ Follow us on Social Media:
           {% endif %}
         </ul>
         
-Read the interview with creator Daniel Valero Fletcher on <a href="http://www.tubefilter.com/2016/08/17/the-pantheon-fund-this-kickstarter/">tubefilter</a>
+Read the Write Ups about us on:
+ 
+ <a href="http://www.tubefilter.com/2016/08/17/the-pantheon-fund-this-kickstarter/">tubefilter</a>
+ 
+ <a href="http://talknerdywithus.com/2016/09/23/talk-web-series-with-us-the-pantheon/">Talk Nerdy With Us</a>
