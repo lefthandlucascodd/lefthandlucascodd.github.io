@@ -32,3 +32,15 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Slideshow settings
+defaults:
+
+  scope:
+    path: "_slides"
+  values:
+    layout: "iframe"
+
+collections:
+  slides:
+    output: true

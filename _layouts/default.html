@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+  <head>
   {% include head.html %}
-
+    <script type="text/javascript" src="{{ "js/main.js" | prepend: site.baseurl }}"></script>
+  </head>
   <body>
 
     {% include header.html %}

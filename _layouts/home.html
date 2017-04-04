@@ -4,8 +4,14 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
+  <section class="main-slides">
+  	{% for slide in site.slides %}
+  	<article class="slide">
+  		<iframe class="slideshow-iframe" src="{{ site.github.url }}{{ slide.url }}"></iframe>
+  	</article>
+  	{% endfor %}
+  </section>
+
   {{ content }}
 
   <ul class="post-list">
