@@ -10,7 +10,7 @@ The Pantheon is coming to YouTube on...
 ![youtube](/img/YouTube-logo-dark.png "YouTube")
 <!--more-->
 
-June 29th!
+June 29th! June 29th! June 29th! June 29th! June 29th! June 29th! June 29th!
 
 Clear your calendar, prepare your offering, and get ready to meet the gods!!!
 
