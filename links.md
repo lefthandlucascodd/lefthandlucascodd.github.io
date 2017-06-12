@@ -31,9 +31,9 @@ Follow us on Social Media:
           </li>
           {% endif %}
         </ul>
-        
+
 Read the Write Ups about us on:
- 
+
  <a href="http://www.tubefilter.com/2016/08/17/the-pantheon-fund-this-kickstarter/">tubefilter</a>
- 
+
  <a href="http://talknerdywithus.com/2016/09/23/talk-web-series-with-us-the-pantheon/">Talk Nerdy With Us</a>
