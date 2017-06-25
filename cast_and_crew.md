@@ -44,9 +44,9 @@ Writer: Laura Baum
 Writer: Kevin Corsini
 
 Director(Pilot): Blair Cosby
-* <a href="https://www.youtube.com/watch?v=g28hI2ZhG6s&t=1s">Romeo & Juliet: YouTube Style</a>
-* <a href="https://www.youtube.com/watch?v=-AIHL5EIKUg&t=11s">The Wolf at the Door</a>
-* <a href="https://www.youtube.com/watch?v=fL6kbrv6YIA&t=4s">The Last Minute of Lucas Gilbert's Life</a>
+* <a href="https://www.youtube.com/watch?v=g28hI2ZhG6s&t=1s"><i class="fa fa-youtube"></i> Romeo & Juliet: YouTube Style</a>
+* <a href="https://www.youtube.com/watch?v=-AIHL5EIKUg&t=11s"><i class="fa fa-youtube"></i> The Wolf at the Door</a>
+* <a href="https://www.youtube.com/watch?v=fL6kbrv6YIA&t=4s"><i class="fa fa-youtube"></i> The Last Minute of Lucas Gilbert's Life</a>
 
 Director of Photography: Matt Giblin
 
