@@ -12,8 +12,12 @@ Laura Lee Walsh as Hades
 Beau Bowker as Zeus
 
 Morgan Smith as Aphrodite
+* [Website](https://www.thisismorgansmith.com)
 
 Emily Tichawa as Persephone
+* [IMDB](http://www.imdb.com/name/nm4668016/)
+* [Website](https://www.EmilyTichawa.com)
+* [<i class="fa fa-instagram" aria-hidden="true"></i> Instagram](https://instagram.com/emtish)
 
 Kevin Corsini as Hermes
 
@@ -40,10 +44,16 @@ Writer: Laura Baum
 Writer: Kevin Corsini
 
 Director(Pilot): Blair Cosby
+* <a href="https://www.youtube.com/watch?v=g28hI2ZhG6s&t=1s">Romeo & Juliet: YouTube Style</a>
+* <a href="https://www.youtube.com/watch?v=-AIHL5EIKUg&t=11s">The Wolf at the Door</a>
+* <a href="https://www.youtube.com/watch?v=fL6kbrv6YIA&t=4s">The Last Minute of Lucas Gilbert's Life</a>
 
 Director of Photography: Matt Giblin
 
 Costumes: Melissa Imari
+* [Website](www.aninvincibledesign.com)
+* [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/invncbledesign)
+* [<i class="fa fa-instagram" aria-hidden="true"></i> Instagram](https://instagram.com/aninvincibledesign)
 
 Editor: Jonny Walls
 
