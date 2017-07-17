@@ -23,6 +23,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: panthyonseries
 facebook_username: panthyonseries
 instagram_username: panthyonseries
+tumblr_username: panthyonseries
+youtube_channel: ThePantheon
 
 # Build settings
 markdown: kramdown

@@ -22,6 +22,14 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+           {% if site.youtube_channel %}
+          <li>
+            <a href="https://www.youtube.com/{{ site.youtube_channel }}">
+                 <i class="fa fa-youtube"></i> YouTube
+            </a>
+          </li>
+          {% endif %}
+
           {% if site.facebook_username %}
           <li>
             <a href="https://www.facebook.com/{{ site.facebook_username }}">
@@ -42,6 +50,14 @@
           <li>
             <a href="https://instagram.com/{{ site.instagram_username }}">
               <i class="fa fa-instagram" aria-hidden="true"></i> Instagram
+            </a>
+          </li>
+          {% endif %}
+
+           {% if site.tumblr_username %}
+          <li>
+            <a href="https://www.{{ site.tumblr_username }}.tumblr.com">
+                 <i class="fa fa-tumblr-square"></i> Facebook
             </a>
           </li>
           {% endif %}
