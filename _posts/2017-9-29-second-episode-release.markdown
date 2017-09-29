@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 The Pantheon Episode 2 Will Launch On...
 
-![behind_the_scenes](/img/behind_the_scenes "Coming Soon")
+![behind_the_scenes](/img/behind_the_scenes.JPG "Coming Soon")
 <!--more-->
 
 THURSDAY OCTOBER 19th!
