@@ -19,6 +19,8 @@ Emily Tichawa as Persephone
 * [Website](https://www.EmilyTichawa.com)
 * [<i class="fa fa-instagram" aria-hidden="true"></i> Instagram](https://instagram.com/emtish)
 
+Rowan Russell as Perseus
+
 Kevin Corsini as Hermes
 
 Laura Baum as Athena
@@ -27,9 +29,17 @@ Ben Voelker as Hephaestus
 
 Nicci Gilbert as Demeter
 
-Jessica Dickerson, Seanna Ladd and Veronica Jarvis as The Muses
+Seanna Ladd as Erato
+
+Lee Te as Melpomene
+
+Jessica Dickerson as Calliope
+
+Veronica Jarvis as Clio
 
 Katrina Clark as Poseidon
+
+Kyle Eilerman as ????
 
 ````
 
@@ -48,7 +58,7 @@ Director(Pilot): Blair Cosby
 * <a href="https://www.youtube.com/watch?v=-AIHL5EIKUg&t=11s"><i class="fa fa-youtube"></i> The Wolf at the Door</a>
 * <a href="https://www.youtube.com/watch?v=fL6kbrv6YIA&t=4s"><i class="fa fa-youtube"></i> The Last Minute of Lucas Gilbert's Life</a>
 
-Director of Photography: Matt Giblin
+Director of Photography (Pilot and "Percy"): Matt Giblin
 
 Costumes: Melissa Imari
 * [Website](www.aninvincibledesign.com)

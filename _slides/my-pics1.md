@@ -6,10 +6,14 @@ auto: true
 loop: true
 ---
 
-* ![A nice pic of mine](/img/poseidon.png)
-* ![Another nice pic of mine](/img/persephone.png)
-* ![Another nice pic of mine](/img/perplexed_hades.png)
-* ![Another nice pic of mine](/img/zeus.png)
-* ![Another nice pic of mine](/img/muses.png)
-* ![Another nice pic of mine](/img/aphrodite2.png)
-* ![Another nice pic of mine](/img/zeus2.png)
+* ![The Pantheon](/img/aphrodite_hades2.png)
+* ![The Pantheon](/img/zeuscoin.png)
+* ![The Pantheon](/img/hades_muses.png)
+* ![The Pantheon](/img/hades3.png)
+* ![The Pantheon](/img/poseidon.png)
+* ![The Pantheon](/img/persephone.png)
+* ![The Pantheon](/img/perplexed_hades.png)
+* ![The Pantheon](/img/zeus.png)
+* ![The Pantheon](/img/muses.png)
+* ![The Pantheon](/img/aphrodite2.png)
+* ![The Pantheon](/img/zeus2.png)
