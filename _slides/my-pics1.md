@@ -7,8 +7,8 @@ loop: true
 ---
 
 * ![The Pantheon](/img/aphrodite_hades2.png)
-* ![The Pantheon](/img/zeuscoin.png)
 * ![The Pantheon](/img/hades_muses.png)
+* ![The Pantheon](/img/zeuscoin.png)
 * ![The Pantheon](/img/hades3.png)
 * ![The Pantheon](/img/poseidon.png)
 * ![The Pantheon](/img/persephone.png)

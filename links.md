@@ -2,6 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
+include: true
 ---
 
 Listen to "The Pantheon" stars and creators talk about the show on these podcasts:

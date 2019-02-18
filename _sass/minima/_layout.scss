@@ -30,8 +30,12 @@
 
 .site-nav {
   float: right;
-  padding-top: 10px;
-  line-height: 60px;
+  padding-top: 25px;
+  line-height: 25px;
+
+  @include media-query($on-palm) {
+    padding-top: 5px;
+  }
 
   .menu-icon {
     display: none;
@@ -54,7 +58,7 @@
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
-    text-align: right;
+    text-align: left;
 
     .menu-icon {
       display: block;
@@ -69,6 +73,7 @@
         fill: $grey-color-dark;
       }
     }
+
 
     .trigger {
       clear: both;
@@ -87,7 +92,7 @@
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
+      margin-left: 5px;
     }
   }
 }

@@ -17,7 +17,7 @@ title: The Pantheon
 author: Created by Daniel Valero Fletcher
 email: pantheonwebseries@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ancient Greek gods in a modern tech office. A new web series on YouTube
+  Ancient Greek gods fighting over a modern tech company. Watch now on YouTube
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.youtube.com/thepantheon" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: panthyonseries
