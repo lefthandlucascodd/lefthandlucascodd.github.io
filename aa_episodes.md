@@ -26,3 +26,11 @@ Hades finds the one weakness that will distract Zeus ahead of the most important
 <b> Episode 3 - "Feature Creep"
 
 Zeus has a plan for an insanely ambitious app but Hades knows that Aphrodite is the key to bringing it all crashing down.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_rjQdiDWogs" frameborder="0" allowfullscreen></iframe>
+
+
+<b> Episode 4 - "Anti-Pattern"
+
+Hades has to figure out how and why Zeus is destroying his own company before it is too late.
